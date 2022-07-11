@@ -205,7 +205,7 @@
     },
     {
         "id": 18,
-        "model": "Смартфон Xiaomi Redmi Note 10S",
+        "model": "Xiaomi Redmi Note 10S",
         "color": "серый оникс",
         "RAM": "6GB",
         "ROM": "128GB",
@@ -217,7 +217,7 @@
     },
     {
         "id": 19,
-        "model": "Смартфон POCO X3 Pro",
+        "model": "POCO X3 Pro",
         "color": "черный",
         "RAM": "8GB",
         "ROM": "256GB",
